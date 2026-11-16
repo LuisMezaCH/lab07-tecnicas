@@ -64,4 +64,4 @@ Paso 4: Revisa tu tabla y verifica que no falte ningún lenguaje de programació
 - Role Prompting, la escogí para que la IA adopte una personalidad más profesional y se oriente para el nivel de detalle en las respuestas.
 - Prompt Estructurado, porque al usarlo se obtiene una respuesta adaptada a lo que necesitamos
 - Autocrítica, para obtener respuestas menos superficiales y que la IA nos genere datos falsos.
-- Descomposión, porque así la IA no tiene que pensar todo de golpe lo cual puede generar respuestas erróneas.
+- Descomposición, porque así la IA no tiene que pensar todo de golpe lo cual puede generar respuestas erróneas.
